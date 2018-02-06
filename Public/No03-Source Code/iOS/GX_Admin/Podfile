@@ -1,0 +1,14 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'GX_Admin' do
+  # Pods for GX_Admin
+
+pod 'Alamofire', '~> 4.5'
+pod 'CryptoSwift'
+  pod 'GooglePlaces'
+  pod 'GooglePlacePicker'
+  pod 'GoogleMaps'
+  pod 'Firebase/Core'
+  pod 'Firebase/Database'
+end

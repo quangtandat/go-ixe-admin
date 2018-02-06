@@ -1,0 +1,287 @@
+
+/*
+  Localizable.strings
+  GXRider
+
+  Created by Phong Nguyen on 3/11/17.
+  Copyright © 2017 Phong Nguyen. All rights reserved.
+*/
+"Password" = "Password";
+"PICK UP LOCATION" = "PICK UP LOCATION";
+"DROP OFF" = "DROP OFF";
+"Choose your drop off" = "Choose your drop off";
+"Confirmation" = "Confirmation";
+"Please choose your drop location !!" = "Please choose your drop location !!";
+"Estimate Fare" = "Estimate Fare";
+"Arriving" = "Arriving";
+"On Ride" = "On Ride";
+"Finish Trip" = "Finish Trip";
+"Sign In" = "Sign In";
+"Logging in..." = "Logging in...";
+"Getting data..." = "Getting data...";
+"Please wait..." = "Please wait...";
+"No internet connection. Please try again !" = "No internet connection. Please try again !";
+"Account has been login by someone please sign in again" = "Account has been login by someone please sign in again";
+"Fail to get data from server. Please reload this page" = "Fail to get data from server. Please reload this page";
+"TRIP MANAGER" = "TRIP MANAGER";
+"DRIVER MANAGER" = "DRIVER MANAGER";
+
+"Message" = "Message";
+"Type" = "Type";
+"ID" = "ID";
+"No promotion" = "No promotion";
+"Are you sure to sign out?" = "Are you sure to sign out?";
+"OK" = "OK";
+"Cancel" = "Cancel";
+"Email" = "Email";
+"Phone" = "Phone";
+"Name" = "Name";
+"Home" = "Home";
+"Work" = "Work";
+"Are you sure" = "Are you sure";
+"Your given name" = "Your given name";
+"Your email address" = "Your email address";
+"Your phone number" = "Your phone number";
+"At least 6 characters" = "At least 6 characters";
+"Introduce code" = "Introduce code";
+"Email is invalid" = "Email is invalid";
+"Introduce Code is invalid" = "Introduce Code is invalid";
+"Password is invalid" = "Password is invalid";
+"Choose destination" = "Choose destination";
+"Your current position" = "Your current position";
+"Your destination" = "Your destination";
+"Loading..." = "Loading...";
+"Personal" = "Personal";
+"Cash" = "Cash";
+"Now" = "Now";
+"Later" = "Later";
+"Promotion" = "Promotion";
+"Note" = "Note";
+"Choose desintaion" = "Choose destination";
+"Wait..." = "Wait...";
+"Your driver is on the way" = "Your driver is on the way";
+"Let's go" = "Let's go";
+"Old" = "Old";
+"New" = "Personal";
+"Family" = "Family";
+"Completed" = "Completed";
+"Canceled" = "Cancel";
+"Cancel" = "Canceled";
+"Fare: " = "Fare: ";
+"Booking" = "Booking";
+
+"Call Supporter" = "Call Supporter";
+"Waiting for response" = "Waiting for response";
+"Please check your network connection" = "Please check your network connection";
+
+"Drive with Go-ixe" = "Drive with Go-ixe";
+"Log out" = "Log out";
+"Cheap trip" = "Cheap trip";
+"Not sync with" = "Not sync with";
+"Linked with" = "Linked with";
+"Save" = "Save";
+"Personal" = "Personal";
+"Sync" = "Sync";
+"Where do you want to go?" = "Where do you want to go? (at least 3 characters)";
+"Set time for arriving" = "Set time for arriving";
+"SET TIME" = "SET TIME";
+"Sign in with Phone" = "Sign in with Phone";
+"Sign in with other" = "Other";
+"Choose an account" = "Choose an account";
+"What's your name?" = "What's your name?";
+"Back" = "Back";
+"The system is processing your request" = "The system is processing your request";
+"Let's us find driver for you" = "Let's us find driver for you";
+
+"CASH" = "CASH";
+"Choose your option" = "Choose your option";
+"Receipt" = "Receipt";
+"Start time" = "Start time";
+"Complete time" = "End time";
+"Duration" = "Duration";
+"Distance" = "Distance";
+"Toll" = "Toll";
+"Promotion" = "Promotion";
+"Normal fare" = "Normal fare";
+"Total" = "Total";
+"How great is the trip?" = "How great is the trip?";
+"Your stars will affect the driver quality" = "Your stars will affect the driver quality";
+"Share your review about this driver" = "Share your review about this driver";
+"RATE TRIP" = "RATE TRIP";
+"SUBMIT" = "SUBMIT";
+"Leave a comment" = "Leave a comment";
+"ON_RIDE" = "ON_RIDE";
+" mins" = "mins";
+"Register" = "Register";
+"Required your name" = "Required your name";
+"Allow Go-ixe access user&apos;s location to set pick up address as default" = "Allow Go-ixe access user&apos;s location to set pick up address as default";
+"Drivers are unavaible !!" = "Drivers are unavaible !!";
+"Request time out !!" = "Request time out !!";
+
+"Your account was logged into from a new device or session expired" = "Your account was logged into from a new device or session expired";
+//MapView
+"District" = "district ";
+"Book trip" = "BOOK TRIP";
+"BOOK" = "BOOK";
+"No driver surround" = "No driver surround";
+
+//Left Menu
+"CheapTrips" = "Cheap Trips";
+"Price" = "Price";
+"History" = "History";
+"Share" = "Share";
+"Contact" = "Contact";
+"About" = "About";
+"Setting" = "Setting";
+"LogOut" = "LogOut";
+
+//Departure & Destination
+"Departure" = "Load your current location...";
+"Destination" = "Where do you want to go?";
+
+//Search Address
+"Choose your destination" = "Choose your destination";
+"PriceInfo" = "Price";
+"LoadingDriver" = "Finding driver...";
+"NoData" = "No Data";
+"Google" = "Google";
+"Popular" = "Popular";
+
+//Note
+"ConfirmNote" = "CONFIRM";
+"CancelNote" = "CANCEL";
+"Notes to driver" = "Notes";
+
+//Check
+"CheckPromote" = "CHECK";
+"CancelPromote" = "CANCEL";
+"Enter promotion code" = "Enter promotion code";
+
+//DetailBook
+"PersonalDB" = "Personal";
+"FamilyDB" = "FamilyDB";
+"CashDB" = "Cash";
+"NowDB" = "Now";
+"LateDB" = "Later";
+"PromoteDB" = "Promote";
+"NoteDB" = "Note";
+
+//Trip Status
+"Arriving_Status" = "Arriving";
+"OnRide_Status" = "On Ride";
+"Complete_Status" = "Complete";
+
+
+//Trip Info
+"Trip information" = "Trip information";
+"Close" = "Close";
+"Mins" = "Mins";
+
+// Cheap Tickets
+"SALES" = "SALES";
+"Sorry, there are no cheap trips right now ! " = "Sorry, there are no cheap trips right now ! ";
+
+
+// Call Support Service
+"SupportService" = "Support Service";
+
+//Pin Search
+"PinSearchText" = "Loading location...";
+"SetLocationPickup" = "SET AS DEPARTURE";
+"SetLocationDropOff" = "SET AS DESTINATION";
+
+//Go Travel
+"Personal" = "Personal";
+"Cont;act" = "Contract";
+"DepartureGoTravel" = "Departure";
+"DestinationGoTravel" = "Destination";
+"Choose Departure" = "Choose Departure";
+"Choose Destination" = "Choose Destination";
+"Capacity" = "Capacity";
+"Car Type" = "Car Type";
+"Set" = "Set";
+"CancelTime" = "Cancel";
+"Select date" = "Select date";
+"Clear" = "Clear";
+"Start" = "Start";
+"End" = "End";
+"Date" = "Date";
+"One-way" = "One-way";
+"Round-trip" = "Round-trip";
+
+"DriverTripStatus" = "(Driver is on trip)";
+
+//Promotion
+"promotionPlaceholder" = "Put your promotion code here";
+"myPromotion" = "My Promotions";
+"catalogue" = "Catalogue";
+"Choose" = "Choose";
+"CancelPromo" = "Cancel";
+"ConfirmPromo" = "Confirm";
+"memberInfo" = "Membership Info";
+"promoWarn" = "You haven't redeemed any promotions. Check out the catalogue to see what you're missing.";
+"pointHistory" = "Point History";
+"earnedPoint" = "Earned Points";
+"spentPoint" = "Spent Points";
+"pointWarn" = "You have not spent any points yet.";
+"rewardExpired" = "Sorry, this reward has expired!";
+"rewardSuccess" = "Purchase success!";
+"rewardWarn" = "Please select the appropriate type of car, thanks!";
+"Discount" = "Discount: ";
+"DiscountTitle" = "Discount";
+"Highlight" = "Highlight";
+"Term" = "Terms & Conditions";
+"ContactInfo" = "Contact info";
+"AboutPromo" = "About";
+"DetailInfo" = "Detail";
+"HighlightDetail" = "- Use promo code to purchase this promotion!";
+"promoCodeWarn" = "Sorry, the promotion code entered is fully redeemed or invalid";
+"BookNow" = "Book Now";
+"introduceWarn" = "Please entered correct introduce code!";
+
+//Price
+"Service is not available" = "Service is not available";
+"Go-Services" = "Go Services";
+
+//History Status
+"Waiting" = "Waiting";
+"Loading data..." = "Loading data...";
+"Cancel trip" = "Cancel";
+
+//Exception
+"Choose your destination" = "Choose your destination";
+"Error" = "Error";
+
+//Alert
+"MessageAlert" = "Message";
+"CancelAlert" = "Cancel";
+"CallAlert" = "Call";
+"Update Successed" = "Update Successed";
+"Update Failed" = "Update Failed";
+
+//Search address
+"Home address" = "Home address (at least 3 characters)";
+"Work address" = "Work address (at least 3 characters)";
+"My Location" = "My Location";
+
+//Depature & Destination
+"Your pick location" = "Pick";
+"Your drop location" = "Drop";
+"minutes" = "minutes";
+
+//Request Time out
+"Request time out" = "Request time out";
+"Retry" = "Retry";
+"Please check your network" = "Please check your network";
+
+"Get database" = "Get database";
+
+//Loading
+"Success Loading" = "Success";
+"Loading map..." = "Loading...";
+"Please try again later" = "Please try again later";
+"Network error. Please try again" = "Network error. Please try again";
+"o cancel this trip?" = "Are you sure cancel this trip?";
+"CancelArriving" = "No";
+"DestroyArriving" = "Sure";
+"Please check your internet connection" = "Please check your internet connection";

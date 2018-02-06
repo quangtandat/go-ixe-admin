@@ -1,0 +1,284 @@
+/* 
+  Localizable.strings
+  GXRider
+
+  Created by Phong Nguyen on 3/11/17.
+  Copyright © 2017 Phong Nguyen. All rights reserved.
+*/
+"Password" = "Mật khẩu";
+"PICK UP LOCATION" = "ĐIỂM ĐÓN";
+"DROP OFF" = "ĐIỂM ĐẾN";
+"Choose your drop off" = "Chọn điểm đến";
+"Confirmation" = "XÁC NHẬN";
+"Please choose your drop location !!" = "Hãy chọn vị trí muốn đến !!";
+"Estimate Fare" = "Giá ước tính";
+"Arriving" = "ĐANG ĐÓN";
+"On Ride" = "TRÊN CHUYẾN ĐI";
+"Finish Trip" = "HOÀN THÀNH";
+"Logging in..." = "Đăng nhập...";
+"Sign In" = "Đăng nhập";
+"Getting data..." = "Lấy dữ liệu...";
+"Please wait..." = "Vui lòng đợi";
+"No internet connection. Please try again !" = "Không có kết nối. Vui lòng thử lại !!";
+"There is no history" = "Bạn chưa có giao dịch nào !";
+"Message" = "Thông báo";
+"Are you sure to sign out?" = "Bạn muốn thoát khỏi ứng dụng?";
+"OK" = "Đồng ý";
+"Are you sure" = "Bạn có chắc chắn chưa";
+"Cancel" = "Từ chối";
+"Email" = "Email";
+"Phone" = "Số điện thoại";
+"Name" = "Tên";
+"Home" = "Nhà";
+"Work" = "Nơi làm việc";
+"Your given name" = "Tên của bạn";
+"Password" = "Mật khẩu";
+"Your email address" = "Email của bạn";
+"Your phone number" = "Số điện thoại của bạn";
+"At least 6 characters" = "Ít nhất 6 kí tự";
+"Introduce code" = "Mã giới thiệu";
+"Email is invalid" = "Email không hợp lệ";
+"Introduce Code is invalid" = "Mã giới thiệu không hợp lệ";
+"Password is invalid" = "Mật khẩu không hợp lệ";
+"Choose destination" = "Chọn điểm đến";
+"Your current position" = "Vị trí hiện tại của bạn";
+"Your destination" = "Điểm đến";
+"Loading..." = "Xin chờ...";
+"Type" = "Loại";
+"ID" = "ID";
+"Personal" = "Cá nhân";
+"Cash" = "Tiền mặt";
+"Now" = "Bây giờ";
+"Later" = "Đặt sau";
+"Time" = "Thời gian";
+"Promotion" = "Khuyến mãi";
+"No promotion" = "Không có khuyến mãi";
+"Note" = "Ghi chú";
+"Choose desiitaion" = "Chọn điểm đến";
+"Wait..." = "Vui lòng đợi";
+"Your driver is on the way" = "Tài xế đến ngay";
+"Let's go" = "Đi thôi";
+"Old" = "Cũ";
+"New" = "Cá nhân";
+"Family" = "Gia đình";
+"Completed" = "Hoàn thành";
+"Canceled" = "Huỷ";
+"Cancel" = "Đã huỷ";
+"Fare: " = "Phí: ";
+"Booking" = "Đặt trước";
+
+"Call Supporter" = "Liên hệ hỗ trợ";
+"Waiting for response" = "Đang chờ tín hiệu";
+"Please check your network connection" = "Vui lòng kiểm tra kết nối mạng";
+
+"Drive with Go-ixe" = "Trở thành tài xế";
+"Log out" = "Đăng xuất";
+"Cheap trip" = "Săn vé rẻ";
+"Not sync with" = "Chưa kết nối với";
+"Linked with" = "Đã liên kết";
+"Save" = "Lưu";
+"Personal" = "Cá nhân";
+"Sync" = "Liên kết";
+"Where do you want to go?" = "Bạn muốn đi đâu? (ít nhất 3 kí tự)";
+"Set time for arriving" = "Đặt thời gian để đón";
+"SET TIME" = "ĐẶT";
+"Sign in with Phone" = "Đăng nhập bằng điện thoại";
+"Sign in with other" = "Cách khác";
+"Choose an account" = "Chọn hình thức đăng nhập";
+"What's your name?" = "Tên của bạn là: ";
+"Back" = "Quay lại";
+"The system is processing your request" = "Hệ thống đang gửi yêu cầu của bạn";
+"Let's us find driver for you" = "Đang tìm tài xế cho bạn";
+ = "Tài khoản đã được đăng nhập bởi một người khác. Xin đăng nhập lại";
+"CASH" = "Tiền mặt";
+"Choose your option" = "Hình ihức bạn chọn là";
+"Receipt" = "Hoá đơn";
+"Start time" = "Bắt đầu";
+"Complete time" = "Kết thúc";
+"Duration" = "Thời gian";
+"Distance" = "Khoảng cách";
+"Toll" = "Phí cầu đường";
+"Promotion" = "Khuyến mãi";
+"Normal fare" = "Phí di chuyển";
+"Total" = "Tổng cộng";
+"How great is the trip?" = "Bạn cảm thấy chuyến đi thế nào?";
+"Your stars will affect the driver quality" = "Đánh giá của bạn sẽ ảnh hưởng tới tài xế";
+"Share your review about this driver" = "Nhận xét của bạn về tài xế này";
+"RATE TRIP" = "CHẤM ĐIỂM";
+"SUBMIT" = "GỬI";
+"Leave a comment" = "chia sẻ cảm nhận";
+"ON_RIDE" = "Đang chạy";
+" mins" = "phút";
+"Register" = "Đăng kí";
+"Required your name" = "Yêu cầu phải nhập tên";
+"Allow Go-ixe access user&apos;s location to set pick up address as default" = "Cho phép Go-ixe lấy vị trí hiện tại của bạn để cập nhật mặc định vị trí đặt";
+"Drivers are unavaible !!" = "Không tìm thấy tài xế";
+"Request time out !!" = "Hết thời gian tìm tài xế";
+"Your account was logged into from a new device or session expired" = "Tài khoản của bạn đã được đăng nhập trên một thiết bị khác hoặc phiên sử dụng đã hết hạn. Vui lòng đăng nhập lại.";
+//MapView
+"District" = "quận ";
+"Book trip" = "ĐẶT CHUYẾN";
+"BOOK" = "ĐẶT CHUYẾN";
+"No driver surround" = "Không có tài xế xung quanh";
+
+//Left Menu
+"CheapTrips" = "Săn chuyến giá rẻ";
+"Price" = "Bảng giá";
+"History" = "Lịch sử";
+"Share" = "Chia sẻ";
+"Contact" = "Liên hệ";
+"About" = "Thông tin";
+"Setting" = "Cài đặt";
+"LogOut" = "Đăng xuất";
+
+//Departure & Destination
+"Departure" = "Đang lấy vị trí của bạn";
+"Destination" = "Bạn muốn đi đâu?";
+
+//Search Address
+"Choose your destination" = "Chọn điểm đến";
+"PriceInfo" = "Phí";
+"LoadingDriver" = "Đang tìm tài xế...";
+"NoData" = "Chưa có dữ liệu";
+"Google" = "Google";
+"Popular" = "Nổi tiếng";
+
+//Note
+"ConfirmNote" = "DUYỆT";
+"CancelNote" = "HUỶ";
+"Notes to driver" = "Ghi chú";
+
+//Check
+"CheckPromote" = "DUYỆT";
+"CancelPromote" = "HUỶ";
+"Enter promotion code" = "Điền mã khuyến mãi";
+
+//DetailBook
+"PersonalDB" = "Cá nhân";
+"FamilyDB" = "Gia đình";
+"CashDB" = "Tiền mặt";
+"NowDB" = "Bây giờ";
+"LateDB" = "Sau";
+"PromoteDB" = "Khuyến mãi";
+"NoteDB" = "Ghi chú";
+
+//Trip Status
+"Arriving_Status" = "ĐANG ĐẾN";
+"OnRide_Status" = "BẮT ĐẦU";
+"Complete_Status" = "HOÀN THÀNH";
+
+//Trip Info
+"Trip information" = "Thông tin chuyến đi";
+"Close" = "Đóng";
+"Mins" = "Phút";
+
+//Pin Search
+"PinSearchText" = "Đang tải vị trí...";
+"SetLocationPickup" = "ĐẶT LÀM ĐIỂM ĐÓN";
+"SetLocationDropOff" = "ĐẶT LÀM ĐIỂM ĐẾN";
+
+//Go Travel
+"Personal" = "Cá nhân";
+"Contract" = "Hợp đồng";
+"DepartureGoTravel" = "Khởi hành";
+"DestinationGoTravel" = "Kết thúc";
+"Choose Departure" = "Chọn điểm khởi hành";
+"Choose Destination" = "Chọn điểm kết thúc";
+"Capacity" = "Số chỗ";
+"Car Type" = "Loại xe";
+"Set" = "Đặt";
+"CancelTime" = "Huỷ";
+"Select date" = "Chọn ngày";
+"Clear" = "Xoá";
+"Start" = "Bắt đầu";
+"End" = "Kết thúc";
+"Date" = "Ngày";
+"One-way" = "Một chiều";
+"Round-trip" = "Khứ hồi";
+
+"DriverTripStatus" = "(Tài xế đang trong chuyến)";
+
+//Promotion
+"promotionPlaceholder" = "Nhập mã khuyến mãi của bạn ở đây";
+"myPromotion" = "Ưu đãi của tôi";
+"catalogue" = "Danh mục";
+"Choose" = "Chọn";
+"CancelPromo" = "Huỷ";
+"ConfirmPromo" = "Xác nhận";
+"memberInfo" = "Thông tin thành viên";
+"promoWarn" = "Bạn chưa đổi khuyến mãi nào. Đừng bỏ lỡ những khuyến mãi hấp dẫn ở danh mục kế bên nhé!";
+"pointHistory" = "Lịch sử điểm thưởng";
+"earnedPoint" = "Số điểm đã nhận";
+"spentPoint" = "Số điểm đã dùng";
+"pointWarn" = "Bạn hiện chưa sử dụng điểm thưởng nào của mình.";
+"rewardExpired" = "Xin lỗi, ưu đãi này đã hết lượt sử dụng!";
+"rewardSuccess" = "Đổi ưu đãi thành công!";
+"rewardWarn" = "Vui lòng chọn ưu đãi phù hợp với loại xe, xin cảm ơn!";
+"Discount" = "Giảm giá: ";
+"DiscountTitle" = "Giảm giá";
+"Highlight" = "Nổi bật";
+"Term" = "Thể lệ";
+"ContactInfo" = "Liên hệ";
+"AboutPromo" = "Giới thiệu";
+"DetailInfo" = "Chi tiết";
+"HighlightDetail" = "- Dùng mã khuyến mãi để đổi ưu đãi này!";
+"promoCodeWarn" = "Xin lỗi, mã khuyến mãi đã được kích hoạt hoặc không hợp lệ!";
+"BookNow" = "Đặt ngay";
+"TRIP MANAGER" = "QUẢN LÝ CHUYẾN";
+"DRIVER MANAGER" = "QUẢN LÝ TÀI XẾ";
+"introduceWarn" = "Vui lòng nhập đúng mã giới thiệu!";
+"Fail to get data from server. Please reload this page" = "Lấy dữ liệu thất bại xin tải lại trang";
+//Price
+"Service is not available" = "Dịch vụ chưa hỗ trợ";
+"Go-Services" = "Dịch vụ của Go-ixe";
+
+// Cheap Tickets
+"SALES" = "Giảm giá";
+"Sorry, there are no cheap trips right now ! " = "Xin lỗi, hiện tại vẫn chưa có chuyến giá rẻ nào !";
+
+// Call Support Service
+"SupportService" = "Hỗ trợ";
+
+
+//History Status
+"Waiting" = "Đang chờ";
+"Loading data..." = "Đang lấy dữ liệu...";
+"Cancel trip" = "Huỷ";
+
+//Exception
+"Choose your destination" = "Vui lòng chọn điểm đến";
+"Error" = "Lỗi";
+"Session expired" = "Phiên đã hết hạn, vui lòng đăng nhập lại";
+
+//Searci address
+"Home address" = "Địa chỉ nhà bạn (ít nhất 3 kí tự)";
+"Work address" = "Địa chỉ nơi làm việc (ít nhất 3 kí tự)";
+"My Location" = "Vị trí của tôi";
+
+//Depature & Destination
+"Your pick location" = "Khởi hành";
+"Your drop location" = "Kết thúc";
+"minutes" = "phút";
+
+//Alert
+"MessageAlert" = "Thông báo";
+"CancelAlert" = "Huỷ";
+"Update Failed" = "Cập nhật lỗi !";
+"Update Successed" = "Cập nhật thành công !";
+"CallAlert" = "Gọi";
+
+"Request time out" = "Quá thời gian chờ";
+"Retry" = "Thử lại";
+"Please check your network" = "Vui lòng kiểm tra lại kết nối !";
+"Get database" = "Lấy dữ liệu...";
+
+//Loading
+"Success Loading" = "Thành công";
+"Loading map..." = "Đang tải bản đồ...";
+"Please try again later" = "Vui lòng thử lại sau";
+"Network error. Please try again" = "Có sự cố mạng. Vui lòng thử lại";
+"Are you sure cancel this trip?" = "Bạn chắc chắn huỷ chuyến này không?";
+không = "Bạn chắc chắn không";
+"CancelArriving" = "Không";
+"DestroyArriving" = "Chắc chắn";
+"Please check your internet connection" = "Vui lòng kiểm tra lại kết nối mạng";
